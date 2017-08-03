@@ -1,0 +1,9 @@
+{
+  "name": "redux-cancan",
+  "version": "0.0.1",
+  "description": "An authorization utility for Redux, inspired by cancancan gem for Ruby on Rails.",
+  "main": "index.js",
+  "repository": "https://github.com/knocknock-team/redux-cancan.git",
+  "author": "dark.turtle <dark.turtle@protonmail.com>",
+  "license": "MIT"
+}
